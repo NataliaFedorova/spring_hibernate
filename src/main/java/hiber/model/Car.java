@@ -62,10 +62,10 @@ public class Car {
 
     @Override
     public String toString() {
-        return "Car (" +
+        return "usersCar (" +
                 "id = " + id +
                 ", model = " + model +
                 ", series = " + series +
-                ')';
+                ")";
     }
 }
